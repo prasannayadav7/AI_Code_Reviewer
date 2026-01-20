@@ -7,7 +7,7 @@ AI Code Reviewer is an intelligent Python tool designed to assist developers, st
 Writing clean, maintainable code is essential for any software project, but it can be challenging to catch all mistakes or optimize code structure manually. AI Code Reviewer addresses this by combining traditional code analysis techniques with advanced AI-driven insights. The tool automatically scans Python code to detect **unused variables, unused imports, syntax errors, and runtime errors**, ensuring that your code is both functional and optimized.  
 
 But it doesn’t stop there. Using AI suggestions, it recommends **improvements to code style, structure, and readability**, helping developers follow best practices such as **PEP8 guidelines**. Each suggestion is explained clearly, making it easier for users to understand **why a change is recommended** and how it can improve their code.  
-### you can checkhere (https://aicodereviewer7.streamlit.app/)
+### you can [checkhere](https://aicodereviewer7.streamlit.app/)
 
 ### Key Benefits
 
